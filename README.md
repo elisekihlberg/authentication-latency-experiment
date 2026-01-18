@@ -4,9 +4,9 @@ This repository contains the source code for a small experimental study that mea
 
 ## Description
 The experiment compares three authentication routines:
-Simple authentication
-Lightweight cryptographic authentication using hashing
-Heavy authentication with repeated hashing
+- Simple authentication
+- Lightweight cryptographic authentication using hashing
+- Heavy authentication with repeated hashing
 
 The purpose of the experiment is to demonstrate how increasing authentication complexity affects authentication latency in a controlled and simplified environment.
 
@@ -17,4 +17,5 @@ The purpose of the experiment is to demonstrate how increasing authentication co
 
 ## Notes
 This experiment is intentionally lightweight and does not aim to represent real-world cloud authentication systems.
+
 
